@@ -33,10 +33,10 @@ You can also use **=** button to use the result of previous calculations.
 
 > ## Screenshots
 
-[scrn1]: scrn1.jpg
-[scrn2]: scrn2.jpg
-[scrn3]: scrn3.jpg
-[scrn4]: scrn4.jpg
+[scrn1]: screenshots/scrn1.jpg
+[scrn2]: screenshots/scrn2.jpg
+[scrn3]: screenshots/scrn3.jpg
+[scrn4]: screenshots/scrn4.jpg
 
 ![Screenshot1][scrn1]
 ![Screenshot2][scrn2]
@@ -45,6 +45,6 @@ You can also use **=** button to use the result of previous calculations.
 
 > ## Installation
 
-You can install the application by downloading the _apk_ package from **release** page.
+You can install the application by downloading the _apk_ package from **release** page or from [here](https://github.com/Sanjay-Parjapati/Simple-Calculator/releases/download/v1.0/Simple-Calculator.apk)
 
 ---
