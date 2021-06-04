@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="topLabel">Calculator</string>
+    <string name="cancel">C</string>
+    <string name="mod">%</string>
+    <string name="subtract">-</string>
+    <string name="add">+</string>
+    <string name="num1">1</string>
+    <string name="num2">2</string>
+    <string name="num3">3</string>
+    <string name="num4">4</string>
+    <string name="num5">5</string>
+    <string name="num6">6</string>
+    <string name="num7">7</string>
+    <string name="num8">8</string>
+    <string name="num9">9</string>
+    <string name="num0">0</string>
+    <string name="remove">X</string>
+    <string name="divide">/</string>
+    <string name="multiply">*</string>
+    <string name="equal">=</string>
+    <string name="empty">-----</string>
+    <string name="decimal">.</string>
+    <string name="delete">x</string>
+    <string name="result">0</string>
+    <string name="val1">0</string>
+    <string name="val2">0</string>
+    <string name="wrong_input">Wrong Input</string>
+    <string name="divide_by_zero">Divisor can\'t be zero!</string>
+    <string name="empty_string"></string>
+    <string name="enter_required_inputs">Please Enter REQUIRED inputs!!!</string>
+    <string name="power">^</string>
+</resources>
